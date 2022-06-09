@@ -1,0 +1,2 @@
+# myGitProject
+a sample project
